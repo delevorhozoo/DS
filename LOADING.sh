@@ -7,4 +7,4 @@ pkg install python git chromium
 # 3. Instal library Selenium dan webdriver-manager
 pip install selenium webdriver-manager
 
-python 
+python EXECUT.py
